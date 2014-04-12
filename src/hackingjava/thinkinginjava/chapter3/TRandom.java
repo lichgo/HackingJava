@@ -1,0 +1,1 @@
+package hackingjava.thinkinginjava.chapter3;import java.util.Random;public class TRandom {		public static void main(String[] args) {		Random ran = new Random(7);		System.out.println(ran.nextInt());		System.out.println(ran.nextFloat());		System.out.println(ran.nextLong());		System.out.println(ran.nextBoolean());	}}

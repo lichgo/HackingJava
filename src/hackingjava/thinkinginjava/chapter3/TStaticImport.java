@@ -1,0 +1,1 @@
+package hackingjava.thinkinginjava.chapter3;import static hackingjava.thinkinginjava.chapter2.TSystem.print;;public class TStaticImport {	public static void main(String[] args) {		print("Hello static import");	}}
