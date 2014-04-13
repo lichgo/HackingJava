@@ -1,0 +1,1 @@
+package hackingjava.thinkinginjava.chapter6;import hackingjava.thinkinginjava.chapter6.subpackage.*;public class MeetPeople {	// Need import subpackage	// different levels mean different package scope	private People people;}

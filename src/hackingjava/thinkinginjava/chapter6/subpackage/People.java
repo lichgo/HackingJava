@@ -1,0 +1,1 @@
+package hackingjava.thinkinginjava.chapter6.subpackage;public class People {}
